@@ -1,3 +1,4 @@
 country,source
 Switzerland,https://github.com/daenuprobst/covid19-cases-switzerland
 Italy,https://github.com/AnthonyEbert/ItalyCovid19/tree/master/johns-hopkins-format
+France,https://github.com/opencovid19-fr/data
